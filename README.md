@@ -60,19 +60,27 @@ Desenvolver uma aplicação de machine learning com base no "Seeds Dataset" da U
 ## 📈 Prints do Projeto
 
 ### 📊 Distribuições e Boxplots
-- ![Histograma](imagens/histogramas.png)
-- ![Boxplots](imagens/boxplots.png)
+<p align="center">
+  <img src="imagens/histogramas.png" alt="Histograma" width="600">
+</p>
+<p align="center">
+  <img src="imagens/boxplots.png" alt="Boxplots" width="600">
+</p>
 
 ### 📉 Acurácia dos Modelos
-- ![Acurácia](imagens/acuracia_modelos.png)
+<p align="center">
+  <img src="imagens/acuracia_modelos.png" alt="Acurácia dos Modelos" width="500">
+</p>
 
 ### 🤖 Matrizes de Confusão dos Modelos
-- ![KNN](imagens/matriz_knn.png)
-- ![KNN Otimizado](imagens/matriz_knn_otimizado.png)
-- ![SVM](imagens/matriz_svm.png)
-- ![Random Forest](imagens/matriz_random_forest.png)
-- ![Naive Bayes](imagens/matriz_naive_bayes.png)
-- ![Regressão Logística](imagens/matriz_regressao_logistica.png)
+<p align="center">
+  <img src="imagens/matriz_knn.png" alt="Matriz KNN" width="400">
+  <img src="imagens/matriz_knn_otimizado.png" alt="Matriz KNN Otimizado" width="400">
+  <img src="imagens/matriz_svm.png" alt="Matriz SVM" width="400">
+  <img src="imagens/matriz_random_forest.png" alt="Matriz Random Forest" width="400">
+  <img src="imagens/matriz_naive_bayes.png" alt="Matriz Naive Bayes" width="400">
+  <img src="imagens/matriz_regressao_logistica.png" alt="Matriz Regressão Logística" width="400">
+</p>
 
 ---
 
@@ -83,6 +91,8 @@ Desenvolver uma aplicação de machine learning com base no "Seeds Dataset" da U
 ├─ 📜classificacao_graos.ipynb
 ├─ 📜README.md
 ├─ 📜seeds_dataset.txt
+├─ 📂imagens/
+│   ├─ logo-fiap.png
 ├─ 📂imagens/
 │   ├─ histograma.png
 │   ├─ boxplots.png
